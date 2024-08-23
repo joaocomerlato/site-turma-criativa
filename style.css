@@ -1,11 +1,21 @@
+}{
+    margin: 0;
+    padding: 0;
+}
 .cabecalho {
     background-color: rgb(15, 74, 201);
     color:white;
     display:flex;
-    justify-content: ;
+    justify-content: space-around;
+    align-intems: center;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
     width: 20%;
 }
 
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+} 
