@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabecalho {
-    background-color: rgb(15, 74, 201);
+    background-color: rgb(4, 0, 233);
     color:white;
     display:flex;
     justify-content: space-around;
@@ -21,6 +21,11 @@
     font-size: 24px;
 } 
 
-.escola-imagem[{
-width: 25;
-}]
+.escola-imagem{
+width: 25%;
+}
+
+
+.escola{
+    background-image: linear-gradient(rgb4, 0, 233,4EBFE9);
+}
