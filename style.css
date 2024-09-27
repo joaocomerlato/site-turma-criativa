@@ -28,4 +28,11 @@ width: 25%;
 
 .escola{
     background-image: linear-gradient(rgb4, 0, 233,4EBFE9);
+    color: white;
+    display:flex;
+    justify-content: center;
+   align-items: center; 
+}
+.escola-div-conteudo {
+    width: 35%
 }
