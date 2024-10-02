@@ -31,8 +31,13 @@ width: 25%;
     color: white;
     display:flex;
     justify-content: center;
-   align-items: center; 
+   align-items: center;
+   padding: 24px 0; 
 }
 .escola-div-conteudo {
     width: 35%
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
